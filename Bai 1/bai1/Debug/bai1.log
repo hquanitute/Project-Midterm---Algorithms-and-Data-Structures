@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\t430\desktop\ctdl on class\do an\bai1\bai1\source.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bai1.vcxproj -> C:\Users\t430\Desktop\CTDL on class\Do an\bai1\Debug\bai1.exe
+  bai1.vcxproj -> C:\Users\t430\Desktop\CTDL on class\Do an\bai1\Debug\bai1.pdb (Partial PDB)
